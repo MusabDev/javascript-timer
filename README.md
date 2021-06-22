@@ -1,7 +1,7 @@
 
 # JavaScript Timer App
 
-This is a JavaScript Timer App. Using this app you can use timer easily.
+This is a JavaScript Timer App. Using this app you can use the timer easily.
 
 
 ## Screenshots
