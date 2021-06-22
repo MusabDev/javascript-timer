@@ -6,7 +6,7 @@ This is a JavaScript Timer App. Using this app you can use timer easily.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MusabDev/javascript-timer/blob/main/screenshots/1.png?raw=true)
 
   
 ## Authors
